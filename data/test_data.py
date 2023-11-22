@@ -7,7 +7,7 @@ class TestData:
     booking_data = {
         "firstname" : "John",
         "lastname" : "Doe",
-        "totalprice" : 500,
+        "totalprice" : 5000,
         "depositpaid" : True,
         "bookingdates" : {
             "checkin" : "2024-12-15",
